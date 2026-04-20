@@ -1,4 +1,4 @@
-# <a href="https://cris-maillo.github.io/yogAI/" target="_blank" title="yogAI">yogAI</a> 
+# <a href="https://nonamexnn.github.io/yogai./" target="_blank" title="yogAI">yogAI</a> 
 
 ### Hey there! Welcome to yogAI<a href="https://ml5js.org/" target="_blank">ml5.js</a>, a JavaScript library for Machine Learning on the browser. Most of my learning was following <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y" target="_blank">The Coding Train’s</a> YouTube playlist on Pose Estimation.
 
